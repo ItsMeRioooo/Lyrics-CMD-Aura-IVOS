@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Lyrics-CMD-Aura-IVOS** is a simple command-line tool for displaying Aura - IV of Spades lyrics in the command terminal.
+**Lyrics-CMD-Aura-IVOS** is a simple python code for displaying Aura - IV of Spades lyrics in the command terminal.
 
 ## Usage
 
